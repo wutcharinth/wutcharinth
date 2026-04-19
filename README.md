@@ -40,7 +40,15 @@ Building autonomous agents, agentic simulations, and interactive lecture synthes
 
 ---
 
-## 03 · Claude Skills — SOP lifecycle as code
+## 03 · AI Systems, not just agents
+
+Shipping an agent is the easy part. What makes it *reliable* is the system around it — orchestration, memory, tool surfaces, guardrails, evaluation, and recovery paths — engineered so multi-step agentic workflows run in production, not just in the demo.
+
+Designed end-to-end: context engineering, state and memory, tool integration (MCP, function calling), input/output guardrails, observability and evals, and human-in-the-loop gates where they matter. The goal is a system the business can trust at scale, not a clever prototype.
+
+---
+
+## 04 · Claude Skills — SOP lifecycle as code
 
 Authored **20+ reusable Claude Skills** adopted across the team as shared infrastructure. They cover the full analyst and engineering workflow — from structured research and idea refinement, through planning and task breakdown, into repeatable deep-dive analytical frames, best-practice patterns for querying and visualizing corporate data, and all the way through DevOps lift: deployment, CI/CD, and release hygiene.
 
@@ -48,7 +56,7 @@ The result is reusable SOPs that compound over time.
 
 ---
 
-## 04 · Selected work
+## 05 · Selected work
 
 <table>
 <tr>
@@ -89,17 +97,17 @@ High-accuracy OCR demo powered by Gemini Vision Pro.
 
 ---
 
-## 05 · Stack
+## 06 · Stack
 
 **Strategy & Analytics**
 Strategic Transformation · Commercial Ops · KPI Development · Financial Modeling · Business Intelligence · PowerBI · Tableau
 
 **AI & Engineering**
-LLM Integration · RAG · AI Agents · Claude Skills · Prompt Engineering · Python · SQL · React · TypeScript · n8n · Claude Code · Google Cloud
+LLM Integration · RAG · AI Agents · Agentic Systems · Orchestration · Guardrails & Evals · Claude Skills · Prompt Engineering · Python · SQL · React · TypeScript · n8n · Claude Code · Google Cloud
 
 ---
 
-## 06 · Connect
+## 07 · Connect
 
 <div align="center">
 
